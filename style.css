@@ -1,8 +1,8 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://static.pexels.com/photos/1380/black-and-white-city-skyline-buildings.jpg");
       background-size: cover;
-      color: white;
+      color: black;
     }
     .nav {
       color: white;
